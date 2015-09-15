@@ -21,6 +21,7 @@ gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
 gem 'materialize-sass'
+
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 
